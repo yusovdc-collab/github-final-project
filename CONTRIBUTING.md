@@ -1,34 +1,25 @@
-# Contributing to Simple Interest Calculator
+Contributing Guidelines
 
-Thank you for your interest in contributing to this project!
+Thank you for your interest in contributing to this project.
 
-All contributions are welcome, including bug reports, bug fixes, documentation improvements, enhancements, and new ideas.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-## Bug Reports
+How to Contribute
 
-If you find a bug, please open an issue on GitHub and explain what went wrong.
+Fork the repository.
 
-## Bug Fixes
+Create a new branch for your changes.
 
-You are welcome to fix bugs and submit a pull request with your changes.
+Make your improvements or bug fixes.
 
-## Documentation Improvements
+Commit your changes.
 
-Contributions that make the instructions and documentation easier to understand are appreciated.
+Submit a pull request.
 
-## Enhancements
+Reporting Bugs
 
-Suggestions and improvements that make the calculator more useful are welcome.
+If you find a bug, please open an issue describing the problem.
 
-## Ideas
+Suggestions
 
-If you have an idea for a new feature, feel free to share it by opening an issue.
-
-## How to Contribute
-
-1. Fork this repository.
-2. Make your changes.
-3. Commit your changes.
-4. Submit a pull request.
-
-Thank you for helping improve this project!
+Suggestions and ideas for improving the simple interest calculator are welcome.
